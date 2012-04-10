@@ -1,0 +1,20 @@
+Source: puka
+Section: python
+Priority: extra
+Maintainer: Kostas Papadimitriou <kpap@grnet.gr>
+Build-Depends: debhelper (>= 8.0.0), python, python-setuptools
+Standards-Version: 3.9.3
+Homepage: https://github.com/majek/puka
+Vcs-Browser: https://github.com/majek/puka
+Vcs-Git: https://github.com/majek/puka.git
+
+Package: puka
+Architecture: all
+Depends: ${shlibs:Depends},
+ ${misc:Depends},
+ ${python:Depends},
+Provides: ${python:Provides}
+Description: Puka - the opinionated RabbitMQ client.
+ Puka is yet-another Python client library for RabbitMQ. But as opposed to
+ similar libraries, it does not try to expose a generic AMQP API. Instead, it
+ takes an opinionated view on how the user should interact with RabbitMQ. 
