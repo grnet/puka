@@ -8,7 +8,7 @@ Homepage: https://github.com/majek/puka
 Vcs-Browser: https://github.com/majek/puka
 Vcs-Git: https://github.com/majek/puka.git
 
-Package: puka
+Package: python-puka
 Architecture: all
 Depends: ${shlibs:Depends},
  ${misc:Depends},
