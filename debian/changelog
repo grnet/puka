@@ -1,3 +1,9 @@
+puka (0.0.5-3) jessie; urgency=low
+
+  * New upstream version
+
+ -- Filippos Giannakos <philipgian@grnet.gr>  Fri, 01 Jul 2016 14:57:59 +0300
+
 puka (0.0.4-1) unstable; urgency=low
 
   * New upstream version
