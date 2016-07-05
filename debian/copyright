@@ -13,7 +13,7 @@ License: GPL-2+ and MPL-1.1
 
 Files: puka/urlparse.py
 Copyright: Guido van Rossum <guido@cwi.nl> and others
-License: Python License
+License: Python
 
 Files: puka/ordereddict.py
 Copyright: Raymond Hettinger <raymond.hettinger@gmail.com>
@@ -26,10 +26,10 @@ License: MIT
   to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
   copies of the Software, and to permit persons to whom the Software is
   furnished to do so, subject to the following conditions:
-
+  .
   The above copyright notice and this permission notice shall be included in
   all copies or substantial portions of the Software.
-
+  .
   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
@@ -60,8 +60,7 @@ License: GPL-2+
  License version 2 can be found in the file
  `/usr/share/common-licenses/GPL-2'.
 
-License: Python License
-
+License: Python
  The following text includes the Python license and licenses and
  acknowledgements for incorporated software. The licenses can be read
  in the HTML and texinfo versions of the documentation as well, after
